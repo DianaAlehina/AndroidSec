@@ -1,0 +1,3 @@
+[submodule "InventoryApp"]
+	path = InventoryApp
+	url = https://github.com/DianaAlehina/InventoryApp.git
